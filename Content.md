@@ -84,6 +84,54 @@
 "fecha_registro": "2019-02-25T17:19:48.000Z",
 "fecha_modificacion": "2019-02-25T17:20:53.000Z",
 "id_persona": 1
+},
+{
+"id": 4,
+"external_medico": "2",
+"hora": "08:00:00",
+"fecha": "2019-03-29T00:00:00.000Z",
+"estado": true,
+"external_horario": "ninguno",
+"external_id": "b8527b98-74e0-42ec-a016-b5e48201e9d5",
+"fecha_registro": "2019-02-26T03:37:05.000Z",
+"fecha_modificacion": "2019-02-26T03:37:05.000Z",
+"id_persona": 1
+},
+{
+"id": 5,
+"external_medico": "2",
+"hora": "08:30:00",
+"fecha": "2019-03-29T00:00:00.000Z",
+"estado": true,
+"external_horario": "ninguno",
+"external_id": "ccc968a9-95ff-4db9-aa9c-733e24bd2a11",
+"fecha_registro": "2019-02-26T03:37:10.000Z",
+"fecha_modificacion": "2019-02-26T03:37:10.000Z",
+"id_persona": 1
+},
+{
+"id": 6,
+"external_medico": "2",
+"hora": "07:30:00",
+"fecha": "2019-03-28T00:00:00.000Z",
+"estado": true,
+"external_horario": "ninguno",
+"external_id": "429ec0b2-ed9c-46cc-8017-1692e70b9434",
+"fecha_registro": "2019-02-26T03:37:16.000Z",
+"fecha_modificacion": "2019-02-26T03:37:16.000Z",
+"id_persona": 1
+},
+{
+"id": 7,
+"external_medico": "2",
+"hora": "07:30:00",
+"fecha": "2019-03-30T00:00:00.000Z",
+"estado": true,
+"external_horario": "ninguno",
+"external_id": "ee23e64c-f88c-490d-8bb6-93711e80153b",
+"fecha_registro": "2019-02-26T03:37:21.000Z",
+"fecha_modificacion": "2019-02-26T03:37:21.000Z",
+"id_persona": 1
 }
 ]
 }
@@ -175,6 +223,54 @@
 "fecha_registro": "2019-02-25T17:19:48.000Z",
 "fecha_modificacion": "2019-02-25T17:20:53.000Z",
 "id_persona": 1
+},
+{
+"id": 4,
+"external_medico": "2",
+"hora": "08:00:00",
+"fecha": "2019-03-29T00:00:00.000Z",
+"estado": true,
+"external_horario": "ninguno",
+"external_id": "b8527b98-74e0-42ec-a016-b5e48201e9d5",
+"fecha_registro": "2019-02-26T03:37:05.000Z",
+"fecha_modificacion": "2019-02-26T03:37:05.000Z",
+"id_persona": 1
+},
+{
+"id": 5,
+"external_medico": "2",
+"hora": "08:30:00",
+"fecha": "2019-03-29T00:00:00.000Z",
+"estado": true,
+"external_horario": "ninguno",
+"external_id": "ccc968a9-95ff-4db9-aa9c-733e24bd2a11",
+"fecha_registro": "2019-02-26T03:37:10.000Z",
+"fecha_modificacion": "2019-02-26T03:37:10.000Z",
+"id_persona": 1
+},
+{
+"id": 6,
+"external_medico": "2",
+"hora": "07:30:00",
+"fecha": "2019-03-28T00:00:00.000Z",
+"estado": true,
+"external_horario": "ninguno",
+"external_id": "429ec0b2-ed9c-46cc-8017-1692e70b9434",
+"fecha_registro": "2019-02-26T03:37:16.000Z",
+"fecha_modificacion": "2019-02-26T03:37:16.000Z",
+"id_persona": 1
+},
+{
+"id": 7,
+"external_medico": "2",
+"hora": "07:30:00",
+"fecha": "2019-03-30T00:00:00.000Z",
+"estado": true,
+"external_horario": "ninguno",
+"external_id": "ee23e64c-f88c-490d-8bb6-93711e80153b",
+"fecha_registro": "2019-02-26T03:37:21.000Z",
+"fecha_modificacion": "2019-02-26T03:37:21.000Z",
+"id_persona": 1
 }
 ]
 }
@@ -265,6 +361,54 @@
 "external_id": "ccc2c24e-260d-4f0d-8f48-f364f5ad0083",
 "fecha_registro": "2019-02-25T17:19:48.000Z",
 "fecha_modificacion": "2019-02-25T17:20:53.000Z",
+"id_persona": 1
+},
+{
+"id": 4,
+"external_medico": "2",
+"hora": "08:00:00",
+"fecha": "2019-03-29T00:00:00.000Z",
+"estado": true,
+"external_horario": "ninguno",
+"external_id": "b8527b98-74e0-42ec-a016-b5e48201e9d5",
+"fecha_registro": "2019-02-26T03:37:05.000Z",
+"fecha_modificacion": "2019-02-26T03:37:05.000Z",
+"id_persona": 1
+},
+{
+"id": 5,
+"external_medico": "2",
+"hora": "08:30:00",
+"fecha": "2019-03-29T00:00:00.000Z",
+"estado": true,
+"external_horario": "ninguno",
+"external_id": "ccc968a9-95ff-4db9-aa9c-733e24bd2a11",
+"fecha_registro": "2019-02-26T03:37:10.000Z",
+"fecha_modificacion": "2019-02-26T03:37:10.000Z",
+"id_persona": 1
+},
+{
+"id": 6,
+"external_medico": "2",
+"hora": "07:30:00",
+"fecha": "2019-03-28T00:00:00.000Z",
+"estado": true,
+"external_horario": "ninguno",
+"external_id": "429ec0b2-ed9c-46cc-8017-1692e70b9434",
+"fecha_registro": "2019-02-26T03:37:16.000Z",
+"fecha_modificacion": "2019-02-26T03:37:16.000Z",
+"id_persona": 1
+},
+{
+"id": 7,
+"external_medico": "2",
+"hora": "07:30:00",
+"fecha": "2019-03-30T00:00:00.000Z",
+"estado": true,
+"external_horario": "ninguno",
+"external_id": "ee23e64c-f88c-490d-8bb6-93711e80153b",
+"fecha_registro": "2019-02-26T03:37:21.000Z",
+"fecha_modificacion": "2019-02-26T03:37:21.000Z",
 "id_persona": 1
 }
 ]
@@ -369,6 +513,54 @@
 "fecha_registro": "2019-02-25T17:19:48.000Z",
 "fecha_modificacion": "2019-02-25T17:20:53.000Z",
 "id_persona": 1
+},
+{
+"id": 4,
+"external_medico": "2",
+"hora": "08:00:00",
+"fecha": "2019-03-29T00:00:00.000Z",
+"estado": true,
+"external_horario": "ninguno",
+"external_id": "b8527b98-74e0-42ec-a016-b5e48201e9d5",
+"fecha_registro": "2019-02-26T03:37:05.000Z",
+"fecha_modificacion": "2019-02-26T03:37:05.000Z",
+"id_persona": 1
+},
+{
+"id": 5,
+"external_medico": "2",
+"hora": "08:30:00",
+"fecha": "2019-03-29T00:00:00.000Z",
+"estado": true,
+"external_horario": "ninguno",
+"external_id": "ccc968a9-95ff-4db9-aa9c-733e24bd2a11",
+"fecha_registro": "2019-02-26T03:37:10.000Z",
+"fecha_modificacion": "2019-02-26T03:37:10.000Z",
+"id_persona": 1
+},
+{
+"id": 6,
+"external_medico": "2",
+"hora": "07:30:00",
+"fecha": "2019-03-28T00:00:00.000Z",
+"estado": true,
+"external_horario": "ninguno",
+"external_id": "429ec0b2-ed9c-46cc-8017-1692e70b9434",
+"fecha_registro": "2019-02-26T03:37:16.000Z",
+"fecha_modificacion": "2019-02-26T03:37:16.000Z",
+"id_persona": 1
+},
+{
+"id": 7,
+"external_medico": "2",
+"hora": "07:30:00",
+"fecha": "2019-03-30T00:00:00.000Z",
+"estado": true,
+"external_horario": "ninguno",
+"external_id": "ee23e64c-f88c-490d-8bb6-93711e80153b",
+"fecha_registro": "2019-02-26T03:37:21.000Z",
+"fecha_modificacion": "2019-02-26T03:37:21.000Z",
+"id_persona": 1
 }
 ]
 }
@@ -471,6 +663,54 @@
 "external_id": "ccc2c24e-260d-4f0d-8f48-f364f5ad0083",
 "fecha_registro": "2019-02-25T17:19:48.000Z",
 "fecha_modificacion": "2019-02-25T17:20:53.000Z",
+"id_persona": 1
+},
+{
+"id": 4,
+"external_medico": "2",
+"hora": "08:00:00",
+"fecha": "2019-03-29T00:00:00.000Z",
+"estado": true,
+"external_horario": "ninguno",
+"external_id": "b8527b98-74e0-42ec-a016-b5e48201e9d5",
+"fecha_registro": "2019-02-26T03:37:05.000Z",
+"fecha_modificacion": "2019-02-26T03:37:05.000Z",
+"id_persona": 1
+},
+{
+"id": 5,
+"external_medico": "2",
+"hora": "08:30:00",
+"fecha": "2019-03-29T00:00:00.000Z",
+"estado": true,
+"external_horario": "ninguno",
+"external_id": "ccc968a9-95ff-4db9-aa9c-733e24bd2a11",
+"fecha_registro": "2019-02-26T03:37:10.000Z",
+"fecha_modificacion": "2019-02-26T03:37:10.000Z",
+"id_persona": 1
+},
+{
+"id": 6,
+"external_medico": "2",
+"hora": "07:30:00",
+"fecha": "2019-03-28T00:00:00.000Z",
+"estado": true,
+"external_horario": "ninguno",
+"external_id": "429ec0b2-ed9c-46cc-8017-1692e70b9434",
+"fecha_registro": "2019-02-26T03:37:16.000Z",
+"fecha_modificacion": "2019-02-26T03:37:16.000Z",
+"id_persona": 1
+},
+{
+"id": 7,
+"external_medico": "2",
+"hora": "07:30:00",
+"fecha": "2019-03-30T00:00:00.000Z",
+"estado": true,
+"external_horario": "ninguno",
+"external_id": "ee23e64c-f88c-490d-8bb6-93711e80153b",
+"fecha_registro": "2019-02-26T03:37:21.000Z",
+"fecha_modificacion": "2019-02-26T03:37:21.000Z",
 "id_persona": 1
 }
 ]
